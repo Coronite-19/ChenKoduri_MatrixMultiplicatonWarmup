@@ -1,4 +1,4 @@
-// Junhe Chen, Laasya Koduri
+// Junhe Chen, Laasya Koduri, Pranav Achar
 // Matrix.java
 public class Matrix {
     public static Double[][] multiply(Double[][] x, Double[][] y) {
