@@ -1,6 +1,6 @@
 # Matrix Multiplication in Java
 
-Names: Junhe Chen, Laasya Koduri
+Names: Junhe Chen, Laasya Koduri, Pranav Achar
 
 This project contains a `Matrix` class with a `multiply` method that takes two 2D arrays (`Double[][]`) and performs matrix multiplication if their sizes are compatible. If the number of columns in the first matrix does not match the number of rows in the second, it returns a special "null matrix."
 
